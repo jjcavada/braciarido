@@ -280,7 +280,8 @@ export default function Home() {
                   </div>
                   <div>
                     <div className="text-sm text-gray-400">Location</div>
-                    <div className="font-medium">Phoenix, Arizona</div>
+                    <div className="font-medium">5830 E 2nd St, Ste 7000 #27715</div>
+                    <div className="font-medium">Casper, Wyoming 82609</div>
                   </div>
                 </div>
               </div>
