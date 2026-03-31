@@ -270,7 +270,7 @@ export default function Home() {
                   </div>
                   <div>
                     <div className="text-sm text-gray-400">Email</div>
-                    <div className="font-medium">hello@braciarido.com</div>
+                    <div className="font-medium">gil@braciaridocorp.com</div>
                   </div>
                 </div>
 
